@@ -8,7 +8,7 @@ plugins {
 }
 
 group = "io.github.cotrin8672"
-version = "1.0.0"
+version = "1.1.0"
 
 repositories {
     mavenCentral()
@@ -39,8 +39,8 @@ afterEvaluate {
             description.set("Ktor plugin for validating signature with line messaging api webhook")
             licenses {
                 license {
-                    name.set("MIT License")
-                    url.set("https://github.com/cotrin8672/ktor-line-webhook-plugin/LICENSE")
+                    name.set("The Apache License, Version 2.0")
+                    url.set("https://www.apache.org/licenses/LICENSE-2.0.txt")
                     distribution.set("repo")
                 }
             }
