@@ -1,3 +1,5 @@
+package io.github.cotrin8672.ktor.plugin
+
 import io.ktor.http.*
 import io.ktor.server.application.*
 import io.ktor.server.request.*
