@@ -9,6 +9,7 @@ implementation("io.github.cotrin8672:ktor-line-webhook-plugin:1.2.0")
 ```
 
 ## Usage
+Install this plugin only on endpoints that receive webhooks.
 ```kotlin
 route("/callback") {
     install(DoubleReceive)
