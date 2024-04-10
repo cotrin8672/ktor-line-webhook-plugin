@@ -8,7 +8,7 @@ plugins {
 }
 
 group = "io.github.cotrin8672"
-version = "1.3.0"
+version = "1.4.0"
 
 repositories {
     mavenCentral()
@@ -29,7 +29,7 @@ afterEvaluate {
 
         coordinates(
             group.toString(),
-            name,
+            "ktor-line-webhook-plugin",
             version.toString()
         )
 
