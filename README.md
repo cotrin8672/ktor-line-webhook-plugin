@@ -5,7 +5,7 @@ The LineWebhook plugin is used to verify the signature of incoming webhooks. Thi
 ](https://central.sonatype.com/artifact/io.github.cotrin8672/ktor-line-webhook-plugin)
 ## Gradle Configuration
 ```gradle
-implementation("io.github.cotrin8672:ktor-line-webhook-plugin:1.4.0")
+implementation("io.github.cotrin8672:ktor-line-webhook-plugin:1.5.0")
 ```
 
 ## Usage
