@@ -1,4 +1,4 @@
-package io.github.cotrin8672.ktor.plugin.io.github.cotrin8672
+package io.github.cotrin8672
 
 import io.ktor.http.*
 import io.ktor.server.application.*
